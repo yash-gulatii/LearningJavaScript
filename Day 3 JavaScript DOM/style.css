@@ -1,0 +1,17 @@
+.color{
+    color: red;
+    font-size: 50px;
+    transform: translateX(200px) rotateX(50deg);
+}
+
+#submit{
+    font-size: 50px;
+}
+
+.main-title{
+    transition: all .5s ease-in;
+}
+
+.fade{
+    opacity: 0;
+}
