@@ -1,4 +1,4 @@
-# Day 8 JavaScript Report
+# Day 9 JavaScript Report
 
 ## 16 November 2022
 
